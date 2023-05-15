@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+## Getting Started with Create React App
+### Here is the screenshot of both tables
+![image](https://github.com/Rishk3/Data-Stats/assets/47039153/d5128543-0b77-438e-9bcf-2f6daef875eb)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ### please install node modules using yarn start or npm install 
